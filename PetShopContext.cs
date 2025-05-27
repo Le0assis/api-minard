@@ -11,7 +11,7 @@ namespace minard_teste_2
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            string databasePath = Path.Combine("petshop.db");
+            string databasePath = "petshop.db";
             options.UseSqlite($"Data Source={databasePath}");
         }
 

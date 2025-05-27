@@ -1,0 +1,8 @@
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.csproj.AssemblyReference.cache
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.AssemblyInfoInputs.cache
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.AssemblyInfo.cs
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.csproj.CoreCompileInputs.cache
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leori\Desktop\minard-teste-2\obj\Release\net8.0\minard-teste-2.sourcelink.json

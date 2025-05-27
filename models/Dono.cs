@@ -3,16 +3,14 @@
     public class Dono
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Nome { get; set; }
 
-        public ICollection<Animal> Animais { get; set; }
+        public ICollection<Animal>? Animais { get; set; }
 
-        public Dono() { }
-
-        public Dono(int id, string name)
+        public Dono(int id, string nome)
         {
             Id = id;
-            Name = name;
+            Nome = nome;
         }
     }
 }

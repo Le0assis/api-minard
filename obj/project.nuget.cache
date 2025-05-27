@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+/0fUgvh0U=",
+  "dgSpecHash": "zQA4muC78a8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leori\\source\\repos\\minard-teste-2\\minard-teste-2.csproj",
+  "projectFilePath": "C:\\Users\\leori\\Desktop\\minard-teste-2\\minard-teste-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leori\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\leori\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.16\\microsoft.aspnetcore.openapi.8.0.16.nupkg.sha512",

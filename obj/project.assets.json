@@ -8270,11 +8270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leori\\source\\repos\\minard-teste-2\\minard-teste-2.csproj",
+      "projectUniqueName": "C:\\Users\\leori\\Desktop\\minard-teste-2\\minard-teste-2.csproj",
       "projectName": "minard-teste-2",
-      "projectPath": "C:\\Users\\leori\\source\\repos\\minard-teste-2\\minard-teste-2.csproj",
+      "projectPath": "C:\\Users\\leori\\Desktop\\minard-teste-2\\minard-teste-2.csproj",
       "packagesPath": "C:\\Users\\leori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leori\\source\\repos\\minard-teste-2\\obj\\",
+      "outputPath": "C:\\Users\\leori\\Desktop\\minard-teste-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
